@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="testLoginScript.testTrivago"/>
+      <class name="testClass.Test8"/>
+      <class name="testClass.Test9"/>
+      <class name="testLoginScript.testEbay"/>
+      <class name="testLoginScript.testFacebook"/>
+      <class name="testLoginScript.testGmail"/>
+      <class name="testLoginScript.testMyntra"/>
+      <class name="testLoginScript.testFlipkart"/>
+      <class name="testClass.Test10"/>
+      <class name="testClass.Test2"/>
+      <class name="testClass.Test3"/>
+      <class name="testClass.Test1"/>
+      <class name="testClass.Test6"/>
+      <class name="testClass.Test7"/>
+      <class name="testClass.Test4"/>
+      <class name="testClass.Test5"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
